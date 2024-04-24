@@ -5,3 +5,5 @@ Used memory: 137 MB
 
 With Flyweight:
 Used memory: 41 MB
+
+NOTE: This is not a original code
